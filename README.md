@@ -51,17 +51,6 @@ Traditional Peking Opera facial makeup patterns carry rich cultural meanings and
 
 ---
 
-## Code and Usage
-
-### Repository Structure
-
-- `data/` : Contains raw and preprocessed images.
-- `scripts/` : Data preprocessing and augmentation scripts.
-- `models/` : Implementation of the improved StyleGAN and SDXL-based workflows.
-- `train.py` : Training script for GAN models.
-- `inference.py` : Script for pattern generation and image-to-image refinement.
-- `utils/` : Utility functions for dataset loading, evaluation metrics, and visualization.
-
 ### Environment Setup
 
 1. Clone the repository:
